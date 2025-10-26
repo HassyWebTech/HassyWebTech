@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @HassyWebTech
-- 👀 I’m interested in learning about front end 
-- 🌱 I’m currently learning html css and JavaScript 
-- 💞️ I’m looking to collaborate on alot of people 
+- 👋 Hi, I’m Hassan
+- 👀 I’m a Frontend developer and an AI/ML Engineer 
+- 💞️ I’m looking to collaborate with people 
 - 📫 How to reach me contact+234 9076826342 or yakubhassan057@gmail.com
 - 😄 Pronouns: ...
 - 
